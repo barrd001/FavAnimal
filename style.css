@@ -1,6 +1,6 @@
 img {
-    width: 40vh;
-    height: 40vh;
+    width: 20vh;
+    height: 20vh;
 }
 
 body {
@@ -18,4 +18,5 @@ header {
 .info {
     margin: 0 auto;
     width: 50vh;
+    font-size: 20px;
 }
